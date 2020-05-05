@@ -1,6 +1,7 @@
+---
 layout: post
 title: "First Note"
-date: 2014-04-30
+date: 2015-05-05
 ---
 
 Blog's First Note - powered by [Jekyll](http://jekyllrb.com)
