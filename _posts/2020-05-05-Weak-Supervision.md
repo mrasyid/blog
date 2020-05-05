@@ -1,7 +1,3 @@
----
-layout: post
-title: "First Note"
-date: 2015-05-05
----
+#Weak Supervision for Deep Learning
 
 Blog's First Note - powered by [Jekyll](http://jekyllrb.com)
